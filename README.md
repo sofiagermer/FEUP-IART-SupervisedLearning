@@ -26,7 +26,7 @@ To execute this project, these libraries are needed:
 
 The project source code is in the jupyter notebook file **_AcademicSuccess.ipynb_**, where the code used for the project is present and documented.
 
-## Group Members (Group 24_1D)
+## Group Members (Group 24_1D )
 
 - Sofia Germer, up201907461
 - Pedro Jesus, up201907523
